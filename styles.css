@@ -1,9 +1,13 @@
 /*  your css code here. If applicable */
-h1{
+h1,p,li{
 	font-family:sans-serif;
 	
 }
 img{
 	
 	height:300px;
+}
+li,p{
+	font-size:14px;
+	font-weight:normal;
 }
